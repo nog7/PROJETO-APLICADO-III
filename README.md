@@ -33,4 +33,4 @@ O projeto está organizado da seguinte forma para facilitar a navegação e repr
 ├── images/                 # Imagens e gráficos gerados
 │   ├── cauda_longa.png
 │   └── comparativo_rmse_mae.png
-├── README.md               # Este arquivo
+├── README.md 
