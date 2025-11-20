@@ -13,7 +13,6 @@ O objetivo principal deste projeto é desenvolver um sistema de recomendação e
 As principais metas incluem:
 *   Processamento de grandes volumes de dados (Dataset Amazon Fine Food Reviews).
 *   Implementação do algoritmo **ALS (Alternating Least Squares)** via PySpark.
-*   Análise de sentimento e conteúdo via **Word2Vec**.
 *   Validação matemática do modelo comparado a baselines aleatórios.
 
 **Orientadora:** Profª. Carolina Toledo Ferraz
@@ -24,8 +23,8 @@ O projeto está organizado da seguinte forma para facilitar a navegação e repr
 
 ```text
 /
-├── data/                   # Contém o dataset (ou instruções de download)
-│   └── Amazon_Reviews.csv  
+├── Data/                   # Contém o dataset (link no txt devido ao tamanho)
+│   └── base.txt
 ├── docs/                   # Documentação
 │   └── Relatorio_Projeto_Aplicado_III.pdf
 ├── images/                 # Imagens e gráficos gerados
