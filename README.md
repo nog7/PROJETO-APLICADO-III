@@ -18,7 +18,7 @@ As metas específicas do projeto incluem:
 
 **Orientadora:** Profª. Carolina Toledo Ferraz
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório 
 
 O projeto está organizado da seguinte forma para facilitar a navegação e reprodução:
 
